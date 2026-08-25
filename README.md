@@ -1,5 +1,5 @@
 # World.Execute-me-
-A console visualisation of World.Execute(Me); Lyric.
+A console visualisation of World.Execute(Me); .
 Make sure you have dotnet installed, preferably 8.0.403.
 run "dotnet run" via cmd.
 then type "world.execute(me);"
