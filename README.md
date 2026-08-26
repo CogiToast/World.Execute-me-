@@ -6,6 +6,8 @@ This is for Windows
 
 Make a new directory "mkdir [NAME]"
 
+move to the directory "cd [NAME]"
+
 run "dotnet new console"
 
 Make sure you have dotnet installed, preferably 8.0.403.
