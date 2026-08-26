@@ -4,7 +4,7 @@ A console visualisation of World.Execute(Me); .
 
 This is for Windows
 
-Make a new directory "mkdir ___"
+Make a new directory "mkdir [NAME]"
 
 run "dotnet new console"
 
