@@ -1,4 +1,5 @@
 # World.Execute-me-
+Best viewed in code
 
 You'll need dotnet-8.0
 
@@ -12,7 +13,7 @@ move to the directory "cd [NAME]"
 
 run "dotnet new console"
 delete everything in it except for bin and obj, then move the downloaded stuff here
-(you might also wanna check line
+(you might also wanna check line 33 and change file paths that leads to your .mp3)
 and "dotnet add package NAudio --version 2.4.0"
 Make sure you have dotnet installed, preferably 8.0.403.
 run "dotnet run" via cmd.
