@@ -755,7 +755,7 @@ foreach (var payload in windowPayloads)
         
         activeTerminalsList.Add(terminalInstance); 
     }
-    catch { /* Suppress errors outside Windows */ }
+    catch {}
     
 
     IntPtr windowHandle = IntPtr.Zero;
