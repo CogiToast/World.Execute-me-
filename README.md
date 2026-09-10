@@ -11,6 +11,8 @@ Make a new directory "mkdir [NAME]"
 move to the directory "cd [NAME]"
 
 run "dotnet new console"
+delete everything in it except for bin and obj, then move the downloaded stuff here
+(you might also wanna check line
 and "dotnet add package NAudio --version 2.4.0"
 Make sure you have dotnet installed, preferably 8.0.403.
 run "dotnet run" via cmd.
