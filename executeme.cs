@@ -30,7 +30,7 @@ string errorMessage = "";
 
 NAudio.Wave.WaveOutEvent wavePlayer = null;
 NAudio.Wave.AudioFileReader audioReader = null;
-string audioFilePath = @"C:\Users\Punsu\My_Stash\WorldExecute.Me\World.execute(me).mp3";
+string audioFilePath = @"PATH_TO_AUDIO";
 float chosenVolume = 0.5f;
 
 while (true)
